@@ -1,5 +1,7 @@
 #### © RAMIYA FORK
-              
+   
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ramiya-dev/RamiYa-Bot-v6)
+   
        ⚡ ◁====BETA RELEASE===▷
 ![logo](https://telegra.ph/file/e8f3e419b3dafe9fe8153.jpg)
 <h1 align="center"><b> 🧚𝗔𝗠𝗔𝗭𝗢𝗡𝗘 𝗔𝗟𝗘𝗫𝗔 (ᴠɪᴘ) </b></h1>
